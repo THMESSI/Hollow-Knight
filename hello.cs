@@ -1,2 +1,1 @@
-print("HELLO WORLD")
-print("CHAVALES")
+print("HELLO WORLD"-)
